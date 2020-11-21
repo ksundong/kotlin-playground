@@ -4,7 +4,7 @@
 
 ### Hello World
 
-[Source Code](introduction)
+[Source Code](introduction/helloworld/main.kt)
 
 1. 코틀린 코드는 대부분 패키지에 정의됩니다. 패키지 정의는 선택적이며, 명시하지 않았을 경우 기본 패키지로 가게됩니다.
 2. 코틀린 애플리케이션의 진입점은 `main` 함수입니다. 코틀린 1.3에서는 `main` 함수를 어떤 파라미터 없이도 정의할 수 있습니다. 리턴 타입을 명시하지 않으면, 함수가 아무것도 반환하지 않는다는 것을 의미합니다.
